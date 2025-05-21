@@ -11,7 +11,7 @@ type Egitmenler={
 
 function Egitmenler(props:Egitmenler) {
   return (
-    <div>Egitmenler
+    <div>Egitmenler for git changes
 
         {props.egitmenler.map((egitmen)=>{
             return <p key={egitmen.last_name}>{egitmen.name} {egitmen.last_name} {egitmen.kurs_sayisi}</p>
