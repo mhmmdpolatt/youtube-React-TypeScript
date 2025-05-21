@@ -1,0 +1,1 @@
+git reset ile belli id commitine geri dönebilirsin --hard  kesin dönüştür diğer versiyonlar silinir
